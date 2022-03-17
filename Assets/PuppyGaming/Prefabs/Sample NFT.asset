@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 334181f11a349da46a818f6c9f3cbfa6, type: 3}
+  m_Name: Sample NFT
+  m_EditorClassIdentifier: 
+  nftName: Angry Reinder #319
+  nftAmount: 1
+  spritelink: https://pbs.twimg.com/profile_images/1449700653366980610/G-nNgGV5_400x400.jpg
+  description: 1,111 hand-drawn Angry Reindeers living on the #Solana forest.
